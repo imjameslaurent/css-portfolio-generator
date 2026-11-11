@@ -18,7 +18,7 @@ Switch between **Classic**, **Glassmorphism**, and **Neumorphism** styles with o
 ## 🚀 Usage
 
 1. Clone the repo  
-   `git clone https://github.com/miladkhorrame/css-portfolio-generator/`
+   `git clone https://github.com/imjameslaurent/css-portfolio-generator/`
 
 2. Open `index.html` in your browser
 
@@ -35,7 +35,7 @@ Switch between **Classic**, **Glassmorphism**, and **Neumorphism** styles with o
 
 ## 🌐 Demo (Live)
 
-👉 [See Live Demo on GitHub Pages](https://github.com/miladkhorrame/css-portfolio-generator/)
+👉 [See Live Demo on GitHub Pages](https://github.com/imjameslaurent/css-portfolio-generator/)
 
 ---
 
